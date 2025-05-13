@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockingModuleStageButtonHider", "DockingModuleStageButtonHider.csproj", "{F55693A6-0783-477D-91B2-0461B2D2C611}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F55693A6-0783-477D-91B2-0461B2D2C611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55693A6-0783-477D-91B2-0461B2D2C611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55693A6-0783-477D-91B2-0461B2D2C611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55693A6-0783-477D-91B2-0461B2D2C611}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
